@@ -14,7 +14,7 @@ header .transparent_nav{
     height: 50px;
 
 }
-#nav_list{
+.nav_list{
   list-style-type: none;
   margin: 0;
   padding-top: 10px;
@@ -113,7 +113,7 @@ body {
     -webkit-transition:.4s;
     transition:.4s;
 }
-.testinomials_wrapper{
+.testimonials_wrapper{
 
     background-color: white;
     align-content: center;
@@ -134,7 +134,7 @@ footer{
     background-color: black;
     float: left;
 }
-.footer{
+.footer1122{
     text-align: center;
     float: none;
 }
