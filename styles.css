@@ -123,16 +123,20 @@ div{
     background-color: black;
     color: white;
     padding: 20px;
-    width:auto;
     height: 30%;
+    width: 20%;
     float: left;
     align-content: center;
+    position: relative;
+    block-size: auto;
+    text-align: left;
 }
 
 footer{
     align-content: center;
     background-color: black;
     float: left;
+    width: 100%;
 }
 .footer1122{
     text-align: center;
@@ -147,4 +151,8 @@ footer{
 
 .footer_widget{
     background-color: transparent;
+}
+
+li .b{
+    float: left;
 }
